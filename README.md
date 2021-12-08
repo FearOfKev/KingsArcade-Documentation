@@ -1,2 +1,1 @@
-# KingsArcade-Documentation
-Documentation for KingsArcade
+![KingsUniverse Server-Banner](https://images.kingsuniverse.net/logo/KingsUniverse.png)
