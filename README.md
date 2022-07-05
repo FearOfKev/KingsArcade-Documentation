@@ -1,6 +1,4 @@
-![KingsUniverse Server-Banner](https://images.kingsuniverse.net/logo/KingsUniverse.png)
-> Wiki: https://github.com/FearOfKev/KingsArcade-Documentation/wiki
+![KingsUniverse Server-Banner](https://strapehosting.net/images/strapehosting.png)
+> Wiki: https://strapehosting.net/go-to/kingsarcade/wiki
 > 
-> Discord: https://kingsuniverse.net/go/kingsarcade-discord
-> 
-> SpigotMc-Page: COMMING SOON
+> Discord: https://strapehosting.net/go-to/discord
